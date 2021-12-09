@@ -1,0 +1,6 @@
+/Users/den4ik/Projects/MVVM/MVVM/bin/Debug/MVVM.exe
+/Users/den4ik/Projects/MVVM/MVVM/bin/Debug/MVVM.pdb
+/Users/den4ik/Projects/MVVM/MVVM/obj/Debug/MVVM.csproj.CoreCompileInputs.cache
+/Users/den4ik/Projects/MVVM/MVVM/obj/Debug/MVVM.exe
+/Users/den4ik/Projects/MVVM/MVVM/obj/Debug/MVVM.pdb
+/Users/den4ik/Projects/MVVM/MVVM/obj/Debug/MVVM.csproj.AssemblyReference.cache
